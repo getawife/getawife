@@ -8,6 +8,7 @@
 - Tech stack: TypeScript, React, Python, Go, C++
 
 ## Tech Stack
+[![Most used languages](https://github-stats-extended.vercel.app/api/top-langs?username=getawife&langs_count=4&hide_values=true&theme=vue-dark)](https://github-stats-extended.vercel.app/api/top-langs?username=getawife&langs_count=4&hide_values=true&theme=vue-dark)
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -17,7 +18,10 @@
 
 ## GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Getawife&theme=radical)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=getawife&rank_icon=github&show_icons=true&include_all_commits=true&theme=dark)](https://github-stats-extended.vercel.app/api?username=getawife&rank_icon=github&show_icons=true&include_all_commits=true&theme=dark)
+
+## Lanshare
+[![Lanshare](https://github-stats-extended.vercel.app/api/pin?username=getawife&repo=getawife%2Flanshare&show_owner=true&theme=vue-dark)](https://github.com/getawife/lanshare)
 
 ## Connect
 
